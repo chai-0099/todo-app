@@ -1,0 +1,13 @@
+<!-- src/app/components/add-todo/add-todo.component.html -->
+<div class="header">
+    Weclocme to the YourTodoList
+</div>
+<div class="heading">
+Add Your ToDo Here!!!
+</div>
+<div class="container">
+<input type="text" [(ngModel)]="title" placeholder="Add a new todo" />
+<div class="button-container">
+<button (click)="addTodo()">Add Todo</button>
+</div>
+</div>

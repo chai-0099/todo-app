@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "title": "Check the total commit by a participants",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "Take the attendence of the participants",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "Review The scripts",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "title": "Reviewing the quality of the code",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "title": "do a explaination",
+      "completed": false,
+      "id": 9
+    },
+    {
+      "title": "adding todo",
+      "completed": false,
+      "id": 10
+    }
+  ]
+}
